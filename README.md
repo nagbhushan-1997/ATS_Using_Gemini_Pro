@@ -16,7 +16,7 @@ Using this any candidate who wants to apply for the job can get the insights of 
 
 This project wouldn't have been possible without the insightful videos from Krish Naik on YouTube. A big shoutout to him for his valuable content! 🙏😊 
 
-## Steps to run this projects are as follows:
+## Steps to run this project are as follows:
 
 - **Step 1:** Open any editor, In my case I have used VS Code as an editor.
 - **Step 2:** Create a virtual environment if  you wanted to deploy your application in any of the website. In My case I have opened a terminal in the VS Code and opened a command prompt then I have given a command **conda create -p venv python==3.10 -y** using this command conda creates a new environment and you need to install the conda environments, For better ease I have installed anaconda in my PC.
@@ -27,9 +27,9 @@ This project wouldn't have been possible without the insightful videos from Kris
 
 ## Technology used in this are:-
 
->**Programming Languages:-** Python.
->**Libraries used:-** streamlit, PyPDF2, google.generativeai, python-dotenv.
->**LLM Model Used:-** Google Gemini Pro.
->**Framework to run the Gen AI App:-** Streamlit.
+- **Programming Languages:-** Python.
+- **Libraries used:-** streamlit, PyPDF2, google.generativeai, python-dotenv.
+- **LLM Model Used:-** Google Gemini Pro.
+- **Framework to run the Gen AI App:-** Streamlit.
 
 
