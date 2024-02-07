@@ -18,12 +18,12 @@ This project wouldn't have been possible without the insightful videos from Kris
 
 ## Steps to run this projects are as follows:
 
->**Step 1:** Open any editor, In my case I have used VS Code as an editor.
->**Step 2:** Create a virtual environment if  you wanted to deploy your application in any of the website. In My case I have opened a terminal in the VS Code and opened a command prompt then I have given a command **conda create -p venv python==3.10 -y** using this command conda creates a new environment and you need to install the conda environments, For better ease I have installed anaconda in my PC.
->**Step 3:** Create an app.py file outside the venv file but inside the folder of your project.
->**Step 4:** Create a requirements.txt file outside the venv file but inside the folder of your project. Install all the required libraries in the file given.
->**Step 5:** The copy the app.py code which is present in my git and strat runnging the app by Opening the Command Prompt terminal in VS Code. As I have used streamlit framework to run the application you need to use the command **streamlit run app.py**.
->**Step 6:** It will ask the permission for running the app in any of the web browser,  you have to give the permission and then the app starts.
+- **Step 1:** Open any editor, In my case I have used VS Code as an editor.
+- **Step 2:** Create a virtual environment if  you wanted to deploy your application in any of the website. In My case I have opened a terminal in the VS Code and opened a command prompt then I have given a command **conda create -p venv python==3.10 -y** using this command conda creates a new environment and you need to install the conda environments, For better ease I have installed anaconda in my PC.
+- **Step 3:** Create an app.py file outside the venv file but inside the folder of your project.
+- **Step 4:** Create a requirements.txt file outside the venv file but inside the folder of your project. Install all the required libraries in the file given.
+- **Step 5:** The copy the app.py code which is present in my git and strat runnging the app by Opening the Command Prompt terminal in VS Code. As I have used streamlit framework to run the application you need to use the command **streamlit run app.py**.
+- **Step 6:** It will ask the permission for running the app in any of the web browser,  you have to give the permission and then the app starts.
 
 ## Technology used in this are:-
 
